@@ -9,3 +9,4 @@ git push origin master  上传到服务器
 git pull origin master  下载打本地
 
 git clone 网址   克隆代码
+朕到此一巡
